@@ -11,7 +11,7 @@ import org.openqa.selenium.support.PageFactory;
 import java.io.IOException;
 
 public class PaymentPage {
-
+/* test Hamza*/
     @FindBy(css = "input[data-qa='name-on-card']")
     private WebElement nameOnCardInput;
 
