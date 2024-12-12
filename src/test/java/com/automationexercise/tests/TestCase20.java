@@ -17,7 +17,7 @@ import java.util.List;
 @Feature("Search")
 public class TestCase20 extends TestBasic {
 
-    @Test(description = "Test Case 20: Search Products and Verify Cart After Login")
+    @Test(description = "Test Case 20: Search Products and Verify Cart After Login.")
     @Severity(SeverityLevel.CRITICAL)
     @Story("Search Products and Verify Cart After Login")
     @Description("""
