@@ -58,7 +58,7 @@ public class TestCase20 extends TestBasic {
         }
     }
 
-    @Step("Verify that those products are visible in cart after login as well")
+    @Step("Verify that those products are visible in cart after login as well.")
     private void verifyThatThoseProductsAreVisibleInCartAfterLoginAsWell(@NotNull List<String> productsNames) {
         clickCartButtonAndVerifyThatProductsAreVisibleInCart(productsNames);
     }
